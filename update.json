@@ -1,0 +1,7 @@
+{
+  "version": "1.1",
+  "title": "New update available",
+  "message": "Version 1.1\nAdded new features\nFixes some bugs\nLove from m2",
+  "download_url": "https://github.com/mrcutex/CodinIDE/releases/download/CodinIDE/CodinIDE_1.0.apk",
+  "force_update": true
+}
