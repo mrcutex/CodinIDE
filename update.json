@@ -1,7 +1,1 @@
-{
-  "version": "1.2.3",
-  "title": "Update Available",
-  "message": "New features added",
-  "download_url": "https://example.com/app.apk",
-  "force_update": true
-}
+{"version": "1.2.3", "title": "Update", "message": "New version", "download_url": "url", "force_update": true}
