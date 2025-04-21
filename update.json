@@ -1,6 +1,6 @@
 {
-  "version_code": "1.1",
-  "title": "New Update Available!",
-  "description": "• Dark Mode enabled\n• Faster performance\n• Minor bug fixes",
-  "apk_url": "https://yourserver.com/myapp_v2.apk"
+    "title": "Update Available",
+    "description": "New features and bug fixes",
+    "apk_url": "https://example.com/app.apk",
+    "version_code": 2
 }
