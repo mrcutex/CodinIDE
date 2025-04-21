@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
-  "title": "Update Available",
-  "message": "New features added",
-  "force_update": true
+  "version": "2.0",
+  "title": "New Update Available!",
+  "description": "• Dark Mode enabled\n• Faster performance\n• Minor bug fixes",
+  "apk_url": "https://yourserver.com/myapp_v2.apk"
 }
